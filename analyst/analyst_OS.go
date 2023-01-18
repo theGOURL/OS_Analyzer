@@ -8,7 +8,7 @@ import (
 
 // this function is the operating system analyst
 // directing to the specific implementation for the operating system
-func OSAnalyzer() {
+func OSChecking() {
 	switch analyzer.MyOS() {
 	case "linux":
 		fmt.Println(analyzer.MyOS());

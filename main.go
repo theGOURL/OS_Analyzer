@@ -5,5 +5,5 @@ import (
 )
 
 func main(){
-  analyst.OSAnalyzer();
+  analyst.OSChecking();
 }
