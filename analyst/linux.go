@@ -5,7 +5,7 @@ import (
 
 	"github.com/theGOURL/go_url/pkg/web/browser"
 	"github.com/theGOURL/go_url/pkg/system/commands"
-	"github.com/theGOURL/go_url/pkg/urls"
+	"github.com/theGOURL/URL/urls"
 )
 
 // this function should only be run on linux :)
