@@ -2,7 +2,7 @@ package analyst
 
 import (
 	"fmt"
-  "github.com/theGOURL/go_url/pkg/system"
+    "github.com/theGOURL/go_url/pkg/system"
 )
 
 // this function is the operating system analyst
