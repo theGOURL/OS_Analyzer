@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/theGOURL/go_url/pkg/web/browser"
-	"github.com/theGOURL/go_url/pkg/system/commands"
+	"github.com/theGOURL/system/commands"
 	"github.com/theGOURL/URL/urls"
 )
 
