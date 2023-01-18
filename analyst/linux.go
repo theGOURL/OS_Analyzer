@@ -3,7 +3,7 @@ package analyst
 import (
 	"fmt"
 
-	"github.com/theGOURL/go_url/pkg/web/browser"
+	"github.com/theGOURL/web/browser"
 	"github.com/theGOURL/system/commands"
 	"github.com/theGOURL/URL/urls"
 )
