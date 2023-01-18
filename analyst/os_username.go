@@ -3,7 +3,7 @@ package analyst
 import (
 	"os/user"
 
-	"github.com/theGOURL/go_url/warning"
+	"github.com/theGOURL/warning"
 )
 
 // this function prints the username of the system,

@@ -4,3 +4,5 @@ github.com/theGOURL/go_url v0.0.0-20230118220334-6bdc89edcc21 h1:ZYB2MF3cGz7iMQe
 github.com/theGOURL/go_url v0.0.0-20230118220334-6bdc89edcc21/go.mod h1:mMEaKQuv7UMAN0wEx9hxYviFaPLa/P/dtveFkQSAa5o=
 github.com/theGOURL/system v0.0.0-20230118230546-65f7b1f03336 h1:trxi5E3wbqOwHnfBU07MQLGd0g9qwtqJfUguqsmb3W8=
 github.com/theGOURL/system v0.0.0-20230118230546-65f7b1f03336/go.mod h1:InaY3FmXLL/mYw+fo24Th5cD7viZCHz6ETKkp9DBCgM=
+github.com/theGOURL/warning v0.0.0-20230118231034-e74eaf21594c h1:l1ht3A0sjPzVw5thxi8/kdrsUjU0212dUPdae8QPrKc=
+github.com/theGOURL/warning v0.0.0-20230118231034-e74eaf21594c/go.mod h1:AqOhJSjnquJ0DS4N8pd5eJdjDE11aYVZylicmmJcJt8=
