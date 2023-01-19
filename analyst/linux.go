@@ -13,7 +13,23 @@ func LinuxOS() {
 	command := MyCommand()
 	switch command {
 	case "man":
-		fmt.Println(``)
+		fmt.Println(`
+    
+                            WELCOME TO theGOURL CLI 💻
+                               Commands Manual 🧠
+                         -------------------------------------------------------
+                        | ls       ->  run ls linux command                     |
+                        | i        ->  run whoami linux command                 |
+                        | hello    ->  say hello                                |
+                        | firefox  ->  open firefox browser                     |
+                        | github   ->  prints the Github   link on the console  |
+                        | whatsapp ->  prints the Whatsapp link on the console  |
+                        | google   ->  prints the Google   link on the console  |
+                        | youtube  ->  prints the Youtube  link on the console  |
+                         -------------------------------------------------------
+
+      `);
+      OSAnalyzer();
 	case "ls":
 		commands.Execute("ls")
 	case "i":
