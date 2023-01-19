@@ -5,7 +5,8 @@ import "fmt"
 //returning the command
 func MyCommand()string{
 	var command string;
-		fmt.Printf("🧠 ");
+  username := myOSUsername("root mode");
+		fmt.Printf("%s🧠 ",username);
 		fmt.Scanf("%s",&command);
 		return command;
 }
