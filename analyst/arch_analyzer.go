@@ -9,7 +9,7 @@ func ARCH_ANALYZER(){
 	switch MyARCH(){
 	case "amd64":
 		fmt.Println(MyARCH());
-	case "amd64p32":
+	case "386":
 		fmt.Println(MyARCH());
 	default:
 		fmt.Println("ARCH UNDEFINIED")
